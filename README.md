@@ -85,7 +85,11 @@ When all the **data is ready**, you can **train your own model** by running the 
 python training_388.py
 python training_1930.py
 python training_nw30.py
-```-->
+```
+### 4.Saving Pre-trained Models
+
+Since our **three model training files (RGTsite_388.pkl, RGTsite_1930.pkl, RGTsite_nw30.pkl)** are too large, we are **unable to upload them** to the GitHub repository. 
+You can **download them from the following link:** https://pan.baidu.com/s/1i55YjF5f-LY_KgA1aByEdQ **Extraction code:** dldx.
 
 ## 🙌 Contact
 
